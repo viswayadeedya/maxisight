@@ -1,0 +1,1953 @@
+[
+  {
+    "job": {
+      "id": "mygreenhouse_260466",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Software Developer",
+      "location": "Kitchener, ON",
+      "url": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466&gh_src=my.greenhouse.search",
+      "posted_at": null,
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "D2L",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 260466,
+        "title": "Software Developer",
+        "companyName": "D2L",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/001/488/original/logo?1780620912",
+        "publicUrl": "https://www.d2l.com/careers/jobs/?job_id=260466&gh_jid=260466&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": null,
+        "locations": [
+          "Kitchener, ON"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.8,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.5,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.152963+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5155757007",
+      "source": "mygreenhouse",
+      "company_slug": "encora10",
+      "title": "Backend Engineer",
+      "location": "Lima, LR",
+      "url": "https://job-boards.greenhouse.io/encora10/jobs/5155757007?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-05T14:19:32Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Encora",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 5155757007,
+        "title": "Backend Engineer",
+        "companyName": "Encora",
+        "logoUrl": "https://s7-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/106/300/original/logo?1760219617",
+        "publicUrl": "https://job-boards.greenhouse.io/encora10/jobs/5155757007?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-05T14:19:32Z",
+        "locations": [
+          "Lima, LR"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7801,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.400345,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.155723+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7968099",
+      "source": "mygreenhouse",
+      "company_slug": "chile",
+      "title": "Senior Software Engineer",
+      "location": "Santiago, RM",
+      "url": "https://job-boards.greenhouse.io/chile/jobs/7968099?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-06T02:17:20Z",
+      "description": "About Checkr Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, Doordash, Amazon, and Anthropic. A career at Checkr means collaborating with brilliant minds, disrupting an industry, and opening channels of employment to often overlooked candidates. Checkr is recognized on Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company . About Checkr Checkr is building the data platform to power safe and fair decisions. Over 140,000 companies and millions of people rely on Checkr for AI verification in the moments that matter most: getting a new job, a new place to live, a car ride, childcare, even a date. Customers include Uber, Pennymac, Airbnb, DoorDash, Amazon, and Anthropic. A career at Checkr means collaborating with brilliant minds, disrupting an industry, and opening channels of employment to often overlooked candidates. Checkr is recognized on the Forbes Cloud 100 2025 List and is a Y Combinator 2024 Breakthrough Company. We are looking for a Senior Software Engineer to join our Data Acquisition team. This team is fundamental to Checkr's mission: we design, build, and operate the platforms that power accurate, reliable background check data pipelines, extracting data at scale from hundreds of government and third-party sources. As a Senior Software Engineer on the Data Acquisition team, you will work on high-impact projects that directly support Checkr's core product. You will be a key contributor to the development and evolution of our data platforms, collaborating with engineers across Santiago and the US. If you thrive on complex distributed systems challenges, care deeply about engineering quality, and want your work to directly enable fair hiring decisions for millions of people, we'd love to have you join us. &nbsp; Responsibilities: Lead the full development lifecycle for data platform features — from design and architecture through implementation, testing, and production monitoring. Design and build new data acquisition platforms in Python, with a focus on reliability, scalability, and observability. Participate in architecture decisions, write design documents, and contribute to technical direction for the team's platforms. Improve platform visibility through structured logging, metrics, and alerting using Datadog and OpenTelemetry. Mentor junior engineers, lead code reviews, and raise the engineering quality bar across the team. Work closely with engineers in Chile and the US, contributing to async-first planning and execution. &nbsp; What you bring: Advanced English communication skills — written and verbal. Available to work in a hybrid format in Santiago office. 5+ years of software engineering experience with a strong backend focus. Strong Python skills (or ruby) — you write idiomatic, well-tested, production-grade Python. Experience building or maintaining distributed systems, APIs, or data pipelines. Solid understanding of web scraping concepts: HTTP internals, proxy routing, CAPTCHA handling, and bot detection evasion patterns. Experience with containerized deployments — Docker, Kubernetes / EKS. Familiarity with cloud platforms — AWS preferred (ECS, SQS, S3, RDS). Strong ownership mindset: you participate in on-call rotations and take end-to-end accountability for your services. An A-player mindset with a strong bias for action: you raise the bar, move with urgency, stay resilient through ambiguity, and take ownership to deliver meaningful outcomes. &nbsp; Nice to have:&nbsp; Experience with MongoDB or other NoSQL data stores. Familiarity with Datadog, structured logging, or OpenTelemetry instrumentation. Prior experience with headless browsers (Playwright, Puppeteer, Selenium). Background in compliance-sensitive or regulated data environments. AI-First Mindset: embrace an engineering culture where AI tooling is standard practice; leverage AI-assisted tools and models to amplify your impact. Pay Transparency Disclosure We use geographic cost of labor as an input to develop ranges for our roles and as such, each location where we hire may have a different range. If this role is remote, we have listed the top to the bottom of the possible range, but we will specify the target range for an exact location when you are selected for a recruiting discussion. For more information on our compensation philosophy, see our website . On-target Earnings OR Base Salary range (Santiago, Chile) $49.980.000 &mdash; $58.800.000 CLP What We Offer A collaborative and fast-moving environment Be part of an international company based in the United States $3,000 USD per year learning and development reimbursement allowance Competitive compensation and opportunity for professional and personal advancement 100% medical, dental, and vision coverage for employees and dependents Additional vacation benefits of 5 extra days and flexibility to take time off At Checkr, we believe a hybrid work environment strengthens collaboration, drives innovation, and encourages connection. Our hub locations are Denver, CO; San Francisco, CA; Nashville, TN; and Santiago, Chile. Individuals are expected to work from the office 3+ days a week. In-office perks are provided, such as lunch five times a week, a commuter stipend, and an abundance of snacks and beverages. &nbsp; Equal Employment Opportunities at Checkr Checkr is committed to hiring talented and qualified individuals with diverse backgrounds for all of its tech, non-tech, and leadership roles. Checkr believes that the gathering and celebration of unique backgrounds, qualities, and cultures enriches the workplace.&nbsp;&nbsp;&nbsp; Checkr also welcomes the opportunity to consider qualified applicants with prior arrest or conviction records. Checkr’s commitment to diversity extends to hiring talented individuals in spite of a prior criminal history in accordance with local, state, and/or federal laws, including the&nbsp; San Francisco’s Fair Chance Ordinance . &nbsp; *Legitimate Checkr emails will always include our official domain name after the @ symbol (e.g., name@checkr.com or name@ext.checkr.com ).",
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Checkr - Chile",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7968099,
+        "title": "Senior Software Engineer",
+        "companyName": "Checkr - Chile",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.greenhouse.io/chile/jobs/7968099?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-06T02:17:20Z",
+        "locations": [
+          "Santiago, RM"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7628,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.565574,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.2482,
+    "scored_at": "2026-06-06 22:01:19.117490+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4686402006",
+      "source": "mygreenhouse",
+      "company_slug": "bestpass",
+      "title": "Platform Engineer",
+      "location": "Edmonton, AB",
+      "url": "https://job-boards.greenhouse.io/bestpass/jobs/4686402006?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-04T18:55:29Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Fleetworthy ",
+      "work_type": "remote",
+      "raw": {
+        "id": 4686402006,
+        "title": "Platform Engineer",
+        "companyName": "Fleetworthy ",
+        "logoUrl": "https://s6-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/015/700/original/logo?1744379884",
+        "publicUrl": "https://job-boards.greenhouse.io/bestpass/jobs/4686402006?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-04T18:55:29Z",
+        "locations": [
+          "Edmonton, AB"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7457,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.228608,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.155539+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5250038008",
+      "source": "mygreenhouse",
+      "company_slug": "lightspeeddms",
+      "title": "Software Engineer",
+      "location": "Montevideo, MO",
+      "url": "https://job-boards.greenhouse.io/lightspeeddms/jobs/5250038008?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-05T21:37:27Z",
+      "description": "Company Overview: Lightspeed is the leading provider of cloud-based software for dealerships, serving the Powersport, Marine, RV, Trailer, and Golf Car industries adding hundreds of dealerships to the Lightspeed community each year. &nbsp; Lightspeed’s Dealer Management Solution (DMS) enables dealerships to optimize their end-to-end business operations, including Sales, Parts, Service, Rentals, Payments, Accounting, and Customer Relationship Management (CRM). When implemented into their daily operations, Lightspeed helps dealers increase their profitability by selling more units, service, and parts, all while creating a more streamlined experience for customers. &nbsp; Lightspeed is the most complete and integrated DMS in the industry with over 500 integrations with Original Equipment Manufacturers (OEMs), aftermarket parts and accessory distributors and dozens of other software tools that a dealership may use to run their business. Uniquely designed by dealers for dealers, and refined over the past 4 decades, Lightspeed empowers over 4,500+ dealers across North America with the tools and technology they need to manage their dealerships. We are seeking a talented and experienced Software Engineer to join our data conversion team. This role centers on the tooling that brings new dealers' data into the Evolution platform, with the opportunity to take ownership of critical applications and help drive the team's transition toward a modern, service-oriented architecture. What you'll do: Maintain and enhance the Conversion IDE, a .NET desktop application written in C# that the onboarding team uses to migrate new customer data into Evolution. Incorporate ongoing product updates into the C# NuGet package used by conversion specialists in the field. Design and build backend services and APIs (.NET 8) as the team transitions from the existing desktop tooling toward a new service-oriented conversion platform. Work with large, complex datasets and database operations, supporting data migrations and the movement of full data sets between databases. Own both development and quality assurance for conversion tooling, identifying, troubleshooting, and resolving bugs. Provide occasional support for a related Angular front-end application. Participate in code reviews, provide constructive feedback, and produce clear technical documentation. Leverage AI-assisted development tools to accelerate coding and documentation. What you should have: 3 years of professional software development experience Strong C# and object-oriented programming skills Experience with Angular Hands-on experience with Entity Framework Solid SQL skills, including PostgreSQL and complex queries against large datasets Working knowledge of software design patterns (e.g., factory, dependency injection) Experience identifying and resolving bugs, and taking initiative to drive them to resolution Strong communication skills and a collaborative working style Excellent organizational skills and the ability to learn new technologies quickly Preferred Qualifications: Experience with AWS services (S3, EC2, RDS) Docker and container-based workflows Experience building RESTful web services / service-oriented architectures with .NET 8 Python Experience working with AI-assisted development tools (e.g., Claude) Experience working in Agile methodologies Education: BS in Computer Science or related field, or equivalent experience level. &nbsp; Inclusion and Diversity at Lightspeed: At Lightspeed, we celebrate the uniqueness of every individual and encourage diverse perspectives. We believe that inclusion drives innovation and fosters meaningful connections. We are committed to building an environment where everyone feels valued and empowered to make an impact. Equal Employment Opportunity Statement: Lightspeed is an Equal Opportunity Employer and is dedicated to building a diverse and inclusive workforce. All qualified applicants will be considered for employment without regard to race, color, creed, ancestry, national origin, gender, sexual orientation, gender identity, gender expression, marital status, religion, age, disability, veteran status, or any other protected category. Important Note: Applicants must be authorized to work in the U.S. Ready to apply? Take the next step in your career—apply today and join a team where your skills will make an impact! &nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Lightspeed DMS",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 5250038008,
+        "title": "Software Engineer",
+        "companyName": "Lightspeed DMS",
+        "logoUrl": "https://s8-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/150/600/original/logo?1744379979",
+        "publicUrl": "https://job-boards.greenhouse.io/lightspeeddms/jobs/5250038008?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-05T21:37:27Z",
+        "locations": [
+          "Montevideo, MO"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7435,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.494288,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.223,
+    "scored_at": "2026-06-06 22:01:19.111238+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5248355008",
+      "source": "mygreenhouse",
+      "company_slug": "federato",
+      "title": "Staff Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://job-boards.greenhouse.io/federato/jobs/5248355008?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-04T17:12:46Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Federato",
+      "work_type": "remote",
+      "raw": {
+        "id": 5248355008,
+        "title": "Staff Software Engineer",
+        "companyName": "Federato",
+        "logoUrl": "https://s8-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/420/400/original/logo?1744380048",
+        "publicUrl": "https://job-boards.greenhouse.io/federato/jobs/5248355008?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-04T17:12:46Z",
+        "locations": [
+          "San Francisco, CA"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7435,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.21758,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122416+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5228165008",
+      "source": "mygreenhouse",
+      "company_slug": "wilsonelser",
+      "title": "Full Stack Software Engineer",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/wilsonelser/jobs/5228165008?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-04T15:39:15Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Wilson Elser - Business & Legal Professionals",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 5228165008,
+        "title": "Full Stack Software Engineer",
+        "companyName": "Wilson Elser - Business & Legal Professionals",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.greenhouse.io/wilsonelser/jobs/5228165008?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-04T15:39:15Z",
+        "locations": [
+          "New York, NY"
+        ],
+        "workType": "hybrid",
+        "payRanges": "$110,000 - $140,000",
+        "viewed": false
+      }
+    },
+    "score": 0.7416,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.208003,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.123681+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4881334101",
+      "source": "mygreenhouse",
+      "company_slug": "exeinspa",
+      "title": "Principal Software Engineer ",
+      "location": "Roma, RM",
+      "url": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4881334101?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-04T14:58:24Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Exein SpA",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 4881334101,
+        "title": "Principal Software Engineer ",
+        "companyName": "Exein SpA",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.eu.greenhouse.io/exeinspa/jobs/4881334101?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-04T14:58:24Z",
+        "locations": [
+          "Roma, RM"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7408,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.203953,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122505+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_205847",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Software Engineer ",
+      "location": "Guadalajara, Jal.",
+      "url": "http://wizeservices.com/careers/job/:name?gh_jid=&gh_jid=205847&gh_src=my.greenhouse.search",
+      "posted_at": null,
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Wize Services",
+      "work_type": "in_person",
+      "raw": {
+        "id": 205847,
+        "title": "Software Engineer ",
+        "companyName": "Wize Services",
+        "logoUrl": null,
+        "publicUrl": "http://wizeservices.com/careers/job/:name?gh_jid=&gh_jid=205847&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": null,
+        "locations": [
+          "Guadalajara, Jal."
+        ],
+        "workType": "in_person",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.74,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.5,
+    "company_score": 1.0,
+    "location_score": 0.7,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.111652+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7764860003",
+      "source": "mygreenhouse",
+      "company_slug": "platformscience",
+      "title": "Lead Software Engineer",
+      "location": "Londrina, PR",
+      "url": "https://job-boards.greenhouse.io/platformscience/jobs/7764860003?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-05T17:20:18Z",
+      "description": "Brazil, Londrina - Hybrid Position At Platform Science, we’re working to connect everything that moves. Founded in 2015, we are an open IoT platform that partners with innovative fleets, application developers, vehicle manufacturers, and equipment providers in the transportation industry to deliver revolutionary solutions to supply chain professionals across the globe. Our employees are an engaging, diverse group of people who believe in the power of great ideas. We hire people with different experiences and perspectives to build a company culture that fuels growth through innovation.&nbsp; We value thoughtful actions and empathy for others.&nbsp; We approach challenges with resiliency and creativity, while encouraging transparency because, no matter our backgrounds or responsibilities, we are one team. About the Role Platform Science is seeking a Software Engineer to join our Video team. In this role, you will maintain and enhance our existing video product, a critical component of our platform. You will directly contribute to the stability, performance, and evolution of a core offering, driving innovation and increasing operational efficiency. Your work will directly impact road safety for our customers, making a difference in their daily operations. Essential Responsibilities Maintain our existing Video solutions to ensure our customers have a great experience Evolve our Video offering developing new features to attend the global market’s expectations Apply software engineering best practices, guaranteeing the deliverables’ stability, performance and quality Lead the design and architecture of complex software systems Create scalable and maintainable solutions, ensuring resilience and fault tolerance Partner with Product and Business leadership to translate complex business goals into feasible technical strategies Identify opportunities for technological improvements and innovation Lead and mentor engineers on projects Drive the coding standards and security practices across the company Communicate technical concepts to non-technical team members Optimize performance and scalability of software systems Required experience Communicate effectively in English (verbal and written) Advanced API software development experience with Kotlin / Java or similar Web application development frameworks (Springboot) UI software development experience with React, Angular or similar Relational database (Postgres, MySQL, etc) Cloud software development (AWS, Azure, GCP) CI/CD, Docker, and Kubernetes Test Automation (Unit and Integration) Event-Driven systems and Streaming technologies (Kafka, RabbitMQ, etc) Will be considered a plus Experience with Infrastructure-as-Code (Terraform or similar) Holistic quality assurance (End-to-End, Performance, etc.) Non-relational databases (ElasticSearch, MongoDB, Redis) Platform Science collects your personal information to support its business operations, including for human resources, employment, benefits administration, health and safety, and other business-related purposes as well as to be in legal compliance. You can review further details of such collection and use in our Privacy Policy (link for browser: https://www.platformscience.com/privacy-notice). Please note: This document is a description of a potential position with our company.&nbsp; Nothing within this document may be construed as an offer for employment or a promise of benefit or remuneration.&nbsp; Further, any representation made within this document is subject to the laws and restrictions of the jurisdiction where employment may be deemed to occur.&nbsp; The parameters and availability of this position are subject to change and based solely within the discretion of the company.&nbsp; In addition, the duties, responsibilities, and scope of this position may not be fully represented in this description or may change as required by the Company. Platform Science is an equal opportunity employer.&nbsp; All applicants will be considered for employment without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status. &nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Platform Science",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7764860003,
+        "title": "Lead Software Engineer",
+        "companyName": "Platform Science",
+        "logoUrl": "https://s3-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/078/100/original/logo?1744379504",
+        "publicUrl": "https://job-boards.greenhouse.io/platformscience/jobs/7764860003?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-05T17:20:18Z",
+        "locations": [
+          "Londrina, PR"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7391,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.43674,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.259,
+    "scored_at": "2026-06-06 22:01:19.120690+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4882580101",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Senior Software Engineer",
+      "location": "Dallas, TX",
+      "url": "https://www.universaldx.com/careers?gh_jid=4882580101&gh_src=my.greenhouse.search#grnhse_app",
+      "posted_at": "2026-06-04T11:29:27Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Universal DX",
+      "work_type": "remote",
+      "raw": {
+        "id": 4882580101,
+        "title": "Senior Software Engineer",
+        "companyName": "Universal DX",
+        "logoUrl": null,
+        "publicUrl": "https://www.universaldx.com/careers?gh_jid=4882580101&gh_src=my.greenhouse.search#grnhse_app",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-04T11:29:27Z",
+        "locations": [
+          "Dallas, TX"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7369,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.184437,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.115065+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_8576842002",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Senior Software Engineer",
+      "location": "Canada",
+      "url": "https://platform.sh/company/careers/job?gh_jid=8576842002&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-04T07:37:15Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Platform.sh",
+      "work_type": "remote",
+      "raw": {
+        "id": 8576842002,
+        "title": "Senior Software Engineer",
+        "companyName": "Platform.sh",
+        "logoUrl": null,
+        "publicUrl": "https://platform.sh/company/careers/job?gh_jid=8576842002&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-04T07:37:15Z",
+        "locations": [
+          "Canada"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.733,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.164933,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.113244+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_8574785002",
+      "source": "mygreenhouse",
+      "company_slug": "alphasense",
+      "title": "Staff Software Engineer",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/alphasense/jobs/8574785002?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-03T22:22:54Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "AlphaSense",
+      "work_type": "remote",
+      "raw": {
+        "id": 8574785002,
+        "title": "Staff Software Engineer",
+        "companyName": "AlphaSense",
+        "logoUrl": "https://s2-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/099/800/original/logo?1744379507",
+        "publicUrl": "https://job-boards.greenhouse.io/alphasense/jobs/8574785002?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-03T22:22:54Z",
+        "locations": [
+          "New York, NY"
+        ],
+        "workType": "remote",
+        "payRanges": "$202,400 - $278,300",
+        "viewed": false
+      }
+    },
+    "score": 0.7253,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.126305,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122549+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_6013361004",
+      "source": "mygreenhouse",
+      "company_slug": "clutch",
+      "title": "Staff Software Engineer",
+      "location": "Toronto, ON",
+      "url": "https://job-boards.greenhouse.io/clutch/jobs/6013361004?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-03T19:12:46Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Clutch Technologies Inc.",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 6013361004,
+        "title": "Staff Software Engineer",
+        "companyName": "Clutch Technologies Inc.",
+        "logoUrl": "https://s4-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/146/200/original/logo?1745068975",
+        "publicUrl": "https://job-boards.greenhouse.io/clutch/jobs/6013361004?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-03T19:12:46Z",
+        "locations": [
+          "Toronto, ON"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7231,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.115259,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122460+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_8577312002",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Software Developer",
+      "location": "Bogotá, DC",
+      "url": "https://www.auvik.com/careers/opening/?gh_jid=8577312002&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-03T18:25:19Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Auvik Networks",
+      "work_type": "remote",
+      "raw": {
+        "id": 8577312002,
+        "title": "Software Developer",
+        "companyName": "Auvik Networks",
+        "logoUrl": "https://s2-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/088/100/original/logo?1744379501",
+        "publicUrl": "https://www.auvik.com/careers/opening/?gh_jid=8577312002&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-03T18:25:19Z",
+        "locations": [
+          "Bogotá, DC"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7225,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.112656,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.153009+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_6013546004",
+      "source": "mygreenhouse",
+      "company_slug": "garnerhealth",
+      "title": "Staff Software Engineer",
+      "location": "New York, NY",
+      "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-05T17:25:20Z",
+      "description": "Garner’s mission is to transform the healthcare economy, delivering high-quality and affordable care for all.&nbsp; We are fundamentally reimagining how healthcare works in the U.S. by partnering with employers to redesign healthcare benefits using clear incentives and powerful, data-driven insights. Our approach guides employees to higher-quality, lower-cost care, creating a system that works better for everyone. Patients achieve better health outcomes, employers spend healthcare dollars more effectively, and physicians are rewarded for delivering exceptional care rather than performing more procedures.&nbsp; Garner is one of the fastest-growing healthcare technology companies in the country. Our products are trusted by the most sophisticated employers and providers in the industry, and we are building a team of talented, mission-driven individuals who are motivated to make a meaningful impact on healthcare at scale. About the role: We are seeking an exceptional Staff Software Engineer to join our organization. Garner’s Engineering team tackles incredibly hard technical problems for a mission that truly matters. Our systems analyze billions of medical records to rank healthcare providers across the country. We are an AWS + Kubernetes shop, and we are constantly introducing new technologies as our system load doubles every year. We expect our engineers to champion cutting-edge industry practices as we aggressively embrace AI in every facet of our operations and norms. We are seeking teammates who take pride in delivering their best work while fostering a strong team culture. Where you will work: Garner is headquartered in NYC, but this position is available for individuals who are comfortable with remote work and occasional travel to HQ. What you will do: Lead team-level technical strategy and execution on multi-quarter time horizons Use AI to build, optimize, and maintain software systems Uplevel engineers across the organization by raising the technical bar Collaborate across disciplines to understand our domain and iterate on projects Protect our users’ privacy and security through best practices The ideal candidate has: 6+ years of software engineering experience Experience leading teams of engineers with demonstrated impact on technical strategy A generalist software engineering mindset ready to learn new languages, frameworks, and techniques required for a fast paced startup environment Demonstrated ability to build complex systems using AI coding agents (we use Claude Code) Able to learn quickly and mentor others Familiarity with data security and HIPAA compliance A desire to be a part of a high-performing, mission-driven team that operates with intense urgency, a strong sense of individual accountability, and a commitment to authentic feedback Technologies we use:&nbsp; Claude Code, Kubernetes, AWS, Airflow, DBT, Python, TypeScript, React, Go This is a unique opportunity to join a fast-growing company in a transformative role, helping shape the future of healthcare. Compensation Transparency: The target salary range for this position is $231,000 - $260,000. Individual compensation for this role will depend on various factors, including qualifications, skills, and applicable laws. In addition to base compensation, this role is eligible to participate in our equity incentive and competitive benefits plans, including but not limited to: flexible PTO, Medical/Dental/Vision plan options, 401(k), Teladoc Health and more. Fraud and Security Notice:&nbsp; Please be aware of recent job scam attempts. Our recruiters use getgarner.com and garnerhealth.com email domains exclusively. If you have been contacted by someone claiming to be a Garner recruiter or a hiring manager from a different domain about a potential job, please report it to law enforcement here and to candidateprotection@garnerhealth.com . Equal Employment Opportunity: Garner Health is proud to be an Equal Employment Opportunity employer and values diversity in the workplace. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, political views or activity, or other applicable legally protected characteristics. Garner Health is committed to providing accommodations for qualified individuals with disabilities in our recruiting process. If you need assistance or an accommodation due to a disability, you may contact us at talent@garnerhealth.com .&nbsp;",
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Garner Health",
+      "work_type": "remote",
+      "raw": {
+        "id": 6013546004,
+        "title": "Staff Software Engineer",
+        "companyName": "Garner Health",
+        "logoUrl": "https://s4-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/152/900/original/logo?1745068977",
+        "publicUrl": "https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-05T17:25:20Z",
+        "locations": [
+          "New York, NY"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7214,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.4378,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.1691,
+    "scored_at": "2026-06-06 22:01:19.121567+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4702136005",
+      "source": "mygreenhouse",
+      "company_slug": "imaginepediatrics",
+      "title": "Staff Software Engineer",
+      "location": "Texas, US",
+      "url": "https://job-boards.greenhouse.io/imaginepediatrics/jobs/4702136005?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-03T00:32:25Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Imagine Pediatrics",
+      "work_type": "remote",
+      "raw": {
+        "id": 4702136005,
+        "title": "Staff Software Engineer",
+        "companyName": "Imagine Pediatrics",
+        "logoUrl": "https://s5-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/224/900/original/logo?1744379563",
+        "publicUrl": "https://job-boards.greenhouse.io/imaginepediatrics/jobs/4702136005?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-03T00:32:25Z",
+        "locations": [
+          "Texas, US"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7134,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.067215,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122369+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5142278007",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Staff Software Engineer",
+      "location": "Skokie, IL",
+      "url": "https://synapsehealth.com/job-postings/5142278007?gh_jid=5142278007&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T21:42:00Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Synapse Health",
+      "work_type": "remote",
+      "raw": {
+        "id": 5142278007,
+        "title": "Staff Software Engineer",
+        "companyName": "Synapse Health",
+        "logoUrl": "https://s7-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/323/200/original/logo?1744380043",
+        "publicUrl": "https://synapsehealth.com/job-postings/5142278007?gh_jid=5142278007&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T21:42:00Z",
+        "locations": [
+          "Skokie, IL"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7124,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.061921,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122639+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_6011786004",
+      "source": "mygreenhouse",
+      "company_slug": "clutch",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON",
+      "url": "https://job-boards.greenhouse.io/clutch/jobs/6011786004?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T20:24:38Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Clutch Technologies Inc.",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 6011786004,
+        "title": "Senior Software Engineer",
+        "companyName": "Clutch Technologies Inc.",
+        "logoUrl": "https://s4-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/146/200/original/logo?1745068975",
+        "publicUrl": "https://job-boards.greenhouse.io/clutch/jobs/6011786004?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T20:24:38Z",
+        "locations": [
+          "Toronto, ON"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7119,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.059658,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122595+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4702010005",
+      "source": "mygreenhouse",
+      "company_slug": "fluxon",
+      "title": "Staff Software Engineer",
+      "location": "India",
+      "url": "https://job-boards.greenhouse.io/fluxon/jobs/4702010005?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T19:49:47Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Fluxon",
+      "work_type": "remote",
+      "raw": {
+        "id": 4702010005,
+        "title": "Staff Software Engineer",
+        "companyName": "Fluxon",
+        "logoUrl": "https://s5-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/131/000/original/logo?1744379520",
+        "publicUrl": "https://job-boards.greenhouse.io/fluxon/jobs/4702010005?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T19:49:47Z",
+        "locations": [
+          "India"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7117,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.058665,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122827+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7962245",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Senior Software Engineer",
+      "location": "New York, NY",
+      "url": "https://www.asana.com/jobs/apply/7962245?gh_jid=7962245&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T18:02:09Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Asana",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7962245,
+        "title": "Senior Software Engineer",
+        "companyName": "Asana",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/003/681/original/logo?1745198171",
+        "publicUrl": "https://www.asana.com/jobs/apply/7962245?gh_jid=7962245&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T18:02:09Z",
+        "locations": [
+          "New York, NY"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7111,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.055703,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122739+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7943692",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://careers.upstart.com/jobs?gh_jid=7943692&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T16:46:46Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Upstart",
+      "work_type": "remote",
+      "raw": {
+        "id": 7943692,
+        "title": "Senior Software Engineer",
+        "companyName": "Upstart",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/000/810/original/logo?1745197945",
+        "publicUrl": "https://careers.upstart.com/jobs?gh_jid=7943692&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T16:46:46Z",
+        "locations": [
+          "San Francisco, CA"
+        ],
+        "workType": "remote",
+        "payRanges": "$166,900 - $230,900",
+        "viewed": false
+      }
+    },
+    "score": 0.7107,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.053718,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122870+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4880911101",
+      "source": "mygreenhouse",
+      "company_slug": "sandtechholdingslimited",
+      "title": "Senior Software Engineer",
+      "location": "Baltimore, MD",
+      "url": "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4880911101?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T16:22:33Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Sand Tech Holdings Limited",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 4880911101,
+        "title": "Senior Software Engineer",
+        "companyName": "Sand Tech Holdings Limited",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.eu.greenhouse.io/sandtechholdingslimited/jobs/4880911101?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T16:22:33Z",
+        "locations": [
+          "Baltimore, MD"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7106,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.053096,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.122925+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_6009953004",
+      "source": "mygreenhouse",
+      "company_slug": "markforged",
+      "title": "Senior Software Engineer",
+      "location": "Waltham, MA",
+      "url": "https://job-boards.greenhouse.io/markforged/jobs/6009953004?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T13:29:09Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Markforged",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 6009953004,
+        "title": "Senior Software Engineer",
+        "companyName": "Markforged",
+        "logoUrl": "https://s4-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/102/700/original/logo?1745068958",
+        "publicUrl": "https://job-boards.greenhouse.io/markforged/jobs/6009953004?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T13:29:09Z",
+        "locations": [
+          "Waltham, MA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7098,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.048844,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.123010+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4699629005",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Principal Software Engineer ",
+      "location": "United States",
+      "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4699629005?gh_jid=4699629005&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-02T09:06:56Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Precisely US Jobs",
+      "work_type": "remote",
+      "raw": {
+        "id": 4699629005,
+        "title": "Principal Software Engineer ",
+        "companyName": "Precisely US Jobs",
+        "logoUrl": "https://s5-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/131/600/original/logo?1744379520",
+        "publicUrl": "https://www.precisely.com/careers-and-culture/us-jobs/job/4699629005?gh_jid=4699629005&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-02T09:06:56Z",
+        "locations": [
+          "United States"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7086,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.043052,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.123304+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5135458007",
+      "source": "mygreenhouse",
+      "company_slug": "encora10",
+      "title": "Platform Engineer",
+      "location": "Indianapolis, IN",
+      "url": "https://job-boards.greenhouse.io/encora10/jobs/5135458007?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-01T22:13:40Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Encora",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 5135458007,
+        "title": "Platform Engineer",
+        "companyName": "Encora",
+        "logoUrl": "https://s7-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/106/300/original/logo?1760219617",
+        "publicUrl": "https://job-boards.greenhouse.io/encora10/jobs/5135458007?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-01T22:13:40Z",
+        "locations": [
+          "Indianapolis, IN"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7063,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.031436,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.158933+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_8545183002",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Senior Software Engineer",
+      "location": "Bangalore, KA",
+      "url": "https://www.digicert.com/careers/?gh_jid=8545183002&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-01T19:02:12Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "DigiCert",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 8545183002,
+        "title": "Senior Software Engineer",
+        "companyName": "DigiCert",
+        "logoUrl": "https://s2-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/037/400/original/logo?1744379456",
+        "publicUrl": "https://www.digicert.com/careers/?gh_jid=8545183002&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-01T19:02:12Z",
+        "locations": [
+          "Bangalore, KA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7057,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.028669,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.123828+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4685102006",
+      "source": "mygreenhouse",
+      "company_slug": "1uphealth",
+      "title": "Senior Software Engineer",
+      "location": "Boston, MA",
+      "url": "https://job-boards.greenhouse.io/1uphealth/jobs/4685102006?gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-01T17:12:07Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "1upHealth",
+      "work_type": "remote",
+      "raw": {
+        "id": 4685102006,
+        "title": "Senior Software Engineer",
+        "companyName": "1upHealth",
+        "logoUrl": "https://s6-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/073/600/original/logo?1744379921",
+        "publicUrl": "https://job-boards.greenhouse.io/1uphealth/jobs/4685102006?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-01T17:12:07Z",
+        "locations": [
+          "Boston, MA"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7054,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.027189,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.123916+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4266269009",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Software Developer ",
+      "location": "Camp Springs, MD",
+      "url": "https://akumeninc.com/career/?gh_jid=4266269009&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-01T16:36:45Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Akumen, Inc.",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 4266269009,
+        "title": "Software Developer ",
+        "companyName": "Akumen, Inc.",
+        "logoUrl": "https://s9-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/317/800/original/logo?1768329049",
+        "publicUrl": "https://akumeninc.com/career/?gh_jid=4266269009&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-01T16:36:45Z",
+        "locations": [
+          "Camp Springs, MD"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7053,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.02673,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.158145+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_8572881002",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Backend Engineer",
+      "location": "Lisbon, 11",
+      "url": "https://www.riskified.com/careers/job-description/?gh_jid=8572881002&gh_src=my.greenhouse.search",
+      "posted_at": "2026-06-01T12:50:23Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Riskified",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 8572881002,
+        "title": "Backend Engineer",
+        "companyName": "Riskified",
+        "logoUrl": "https://s2-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/321/100/original/logo?1744379604",
+        "publicUrl": "https://www.riskified.com/careers/job-description/?gh_jid=8572881002&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-06-01T12:50:23Z",
+        "locations": [
+          "Lisbon, 11"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7048,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.023971,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.160367+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7743128003",
+      "source": "mygreenhouse",
+      "company_slug": "bluevineisrael",
+      "title": "Lead Software Engineer",
+      "location": "Tel Aviv, TA",
+      "url": "https://job-boards.greenhouse.io/bluevineisrael/jobs/7743128003?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-31T07:12:14Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Bluevine - Israel",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7743128003,
+        "title": "Lead Software Engineer",
+        "companyName": "Bluevine - Israel",
+        "logoUrl": "https://s3-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/120/100/original/logo?1744379520",
+        "publicUrl": "https://job-boards.greenhouse.io/bluevineisrael/jobs/7743128003?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-31T07:12:14Z",
+        "locations": [
+          "Tel Aviv, TA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.702,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.010185,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.124653+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7967763",
+      "source": "mygreenhouse",
+      "company_slug": "singlestore-linkedin",
+      "title": "Software Engineer",
+      "location": "Hyderabad, TG",
+      "url": "https://job-boards.greenhouse.io/singlestore-linkedin/jobs/7967763?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T20:22:19Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "SingleStore-LinkedIn",
+      "work_type": "remote",
+      "raw": {
+        "id": 7967763,
+        "title": "Software Engineer",
+        "companyName": "SingleStore-LinkedIn",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.greenhouse.io/singlestore-linkedin/jobs/7967763?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T20:22:19Z",
+        "locations": [
+          "Hyderabad, TG"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7007,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.003724,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.124565+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7967752",
+      "source": "mygreenhouse",
+      "company_slug": "singlestore",
+      "title": "Software Engineer",
+      "location": "Hyderabad, TG",
+      "url": "https://job-boards.greenhouse.io/singlestore/jobs/7967752?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T20:19:18Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "SingleStore",
+      "work_type": "remote",
+      "raw": {
+        "id": 7967752,
+        "title": "Software Engineer",
+        "companyName": "SingleStore",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/000/975/original/logo?1757691971",
+        "publicUrl": "https://job-boards.greenhouse.io/singlestore/jobs/7967752?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T20:19:18Z",
+        "locations": [
+          "Hyderabad, TG"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7007,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.003719,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.124607+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5150460007",
+      "source": "mygreenhouse",
+      "company_slug": "eclinicalsolutions",
+      "title": "Principal Software Engineer",
+      "location": "Mansfield, MA",
+      "url": "https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5150460007?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T19:22:50Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "eClinical Solutions",
+      "work_type": "remote",
+      "raw": {
+        "id": 5150460007,
+        "title": "Principal Software Engineer",
+        "companyName": "eClinical Solutions",
+        "logoUrl": "https://s7-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/308/200/original/logo?1744380036",
+        "publicUrl": "https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5150460007?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T19:22:50Z",
+        "locations": [
+          "Mansfield, MA"
+        ],
+        "workType": "remote",
+        "payRanges": "$152,000 - $190,000",
+        "viewed": false
+      }
+    },
+    "score": 0.7007,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.003619,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.125361+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5149745007",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Software Engineer",
+      "location": "São Paulo, SP",
+      "url": "https://www.macarta.com.br/carreiras/carreira/?job=5149745007&gh_jid=5149745007&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T12:10:09Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Mindgruve - Brazil",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 5149745007,
+        "title": "Software Engineer",
+        "companyName": "Mindgruve - Brazil",
+        "logoUrl": null,
+        "publicUrl": "https://www.macarta.com.br/carreiras/carreira/?job=5149745007&gh_jid=5149745007&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T12:10:09Z",
+        "locations": [
+          "São Paulo, SP"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7006,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.002939,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.124787+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7751260003",
+      "source": "mygreenhouse",
+      "company_slug": "geniussports",
+      "title": "Senior Software Engineer",
+      "location": "London, GB",
+      "url": "https://boards.greenhouse.io/geniussports/jobs/7751260003?gh_jid=7751260003&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T13:00:34Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Genius Sports",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7751260003,
+        "title": "Senior Software Engineer",
+        "companyName": "Genius Sports",
+        "logoUrl": "https://s3-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/114/300/original/logo?1744379517",
+        "publicUrl": "https://boards.greenhouse.io/geniussports/jobs/7751260003?gh_jid=7751260003&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T13:00:34Z",
+        "locations": [
+          "London, GB"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7006,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.003011,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.125494+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4700641005",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Software Engineer",
+      "location": "Bengaluru, KA",
+      "url": "https://www.deepwatch.com/current-job-openings-india/?gh_jid=4700641005&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T08:45:58Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Deepwatch India",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 4700641005,
+        "title": "Software Engineer",
+        "companyName": "Deepwatch India",
+        "logoUrl": null,
+        "publicUrl": "https://www.deepwatch.com/current-job-openings-india/?gh_jid=4700641005&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T08:45:58Z",
+        "locations": [
+          "Bengaluru, KA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7005,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.002664,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.124827+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4700638005",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Lead Software Engineer",
+      "location": "Bengaluru, KA",
+      "url": "https://www.deepwatch.com/current-job-openings-india/?gh_jid=4700638005&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-29T08:37:52Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Deepwatch India",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 4700638005,
+        "title": "Lead Software Engineer",
+        "companyName": "Deepwatch India",
+        "logoUrl": null,
+        "publicUrl": "https://www.deepwatch.com/current-job-openings-india/?gh_jid=4700638005&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-29T08:37:52Z",
+        "locations": [
+          "Bengaluru, KA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7005,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.002653,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.125754+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7751682003",
+      "source": "mygreenhouse",
+      "company_slug": "clariticloudinc",
+      "title": "Senior Software Engineer",
+      "location": "Toronto, ON",
+      "url": "https://job-boards.greenhouse.io/clariticloudinc/jobs/7751682003?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T20:09:09Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Clariti Cloud Inc.",
+      "work_type": "remote",
+      "raw": {
+        "id": 7751682003,
+        "title": "Senior Software Engineer",
+        "companyName": "Clariti Cloud Inc.",
+        "logoUrl": "https://s3-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/339/600/original/logo?1744379640",
+        "publicUrl": "https://job-boards.greenhouse.io/clariticloudinc/jobs/7751682003?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T20:09:09Z",
+        "locations": [
+          "Toronto, ON"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7004,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.00185,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.125895+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4261638009",
+      "source": "mygreenhouse",
+      "company_slug": "kepora",
+      "title": "Software Engineer",
+      "location": "Potomac, MD",
+      "url": "https://job-boards.greenhouse.io/kepora/jobs/4261638009?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T16:53:54Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Kepora",
+      "work_type": "remote",
+      "raw": {
+        "id": 4261638009,
+        "title": "Software Engineer",
+        "companyName": "Kepora",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.greenhouse.io/kepora/jobs/4261638009?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T16:53:54Z",
+        "locations": [
+          "Potomac, MD"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001684,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.124917+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7960897",
+      "source": "mygreenhouse",
+      "company_slug": "iterable",
+      "title": "Software Engineer",
+      "location": "Lisbon, LI",
+      "url": "https://job-boards.greenhouse.io/iterable/jobs/7960897?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T09:16:14Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Iterable",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7960897,
+        "title": "Software Engineer",
+        "companyName": "Iterable",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/002/965/original/logo?1777572665",
+        "publicUrl": "https://job-boards.greenhouse.io/iterable/jobs/7960897?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T09:16:14Z",
+        "locations": [
+          "Lisbon, LI"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001351,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.125041+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_6008285004",
+      "source": "mygreenhouse",
+      "company_slug": "zetaglobal",
+      "title": "Staff Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6008285004?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T17:51:53Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Zeta Global",
+      "work_type": "remote",
+      "raw": {
+        "id": 6008285004,
+        "title": "Staff Software Engineer",
+        "companyName": "Zeta Global",
+        "logoUrl": "https://s4-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/284/700/original/logo?1745069024",
+        "publicUrl": "https://job-boards.greenhouse.io/zetaglobal/jobs/6008285004?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T17:51:53Z",
+        "locations": [
+          "Atlanta, GA"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001732,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.125997+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_5148826007",
+      "source": "mygreenhouse",
+      "company_slug": "arcesiumllc",
+      "title": "Principal Software Engineer",
+      "location": "Stockholm, ST",
+      "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5148826007?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T15:38:36Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Arcesium LLC",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 5148826007,
+        "title": "Principal Software Engineer",
+        "companyName": "Arcesium LLC",
+        "logoUrl": "https://s7-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/262/700/original/logo?1744380015",
+        "publicUrl": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5148826007?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T15:38:36Z",
+        "locations": [
+          "Stockholm, ST"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001625,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.126150+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7963744",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Staff Software Engineer",
+      "location": "Berlin, BE",
+      "url": "https://navan.com/careers/openings?gh_jid=7963744&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T16:26:38Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Navan",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7963744,
+        "title": "Staff Software Engineer",
+        "companyName": "Navan",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/004/428/original/logo?1745198249",
+        "publicUrl": "https://navan.com/careers/openings?gh_jid=7963744&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T16:26:38Z",
+        "locations": [
+          "Berlin, BE"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001663,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.126290+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4682486006",
+      "source": "mygreenhouse",
+      "company_slug": "systemstechnologyresearch",
+      "title": "Lead Software Engineer",
+      "location": "Woburn, MA",
+      "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4682486006?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T13:47:06Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "STR",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 4682486006,
+        "title": "Lead Software Engineer",
+        "companyName": "STR",
+        "logoUrl": "https://s6-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/127/900/original/logo?1744379942",
+        "publicUrl": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4682486006?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T13:47:06Z",
+        "locations": [
+          "Woburn, MA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.00154,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.126483+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_8505580002",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Senior Software Engineer",
+      "location": "Bengaluru, KA",
+      "url": "https://www.digicert.com/careers/?gh_jid=8505580002&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T10:58:56Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "DigiCert",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 8505580002,
+        "title": "Senior Software Engineer",
+        "companyName": "DigiCert",
+        "logoUrl": "https://s2-recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/400/037/400/original/logo?1744379456",
+        "publicUrl": "https://www.digicert.com/careers/?gh_jid=8505580002&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T10:58:56Z",
+        "locations": [
+          "Bengaluru, KA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.00142,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.126528+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_4261652009",
+      "source": "mygreenhouse",
+      "company_slug": "kepora",
+      "title": "Software Developer",
+      "location": "Potomac, MD",
+      "url": "https://job-boards.greenhouse.io/kepora/jobs/4261652009?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-28T16:58:19Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Kepora",
+      "work_type": "remote",
+      "raw": {
+        "id": 4261652009,
+        "title": "Software Developer",
+        "companyName": "Kepora",
+        "logoUrl": null,
+        "publicUrl": "https://job-boards.greenhouse.io/kepora/jobs/4261652009?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-28T16:58:19Z",
+        "locations": [
+          "Potomac, MD"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7003,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001688,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.165606+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7923223",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Staff Software Engineer",
+      "location": "New York, NY",
+      "url": "https://hover.to/job-posts/7923223/?gh_jid=7923223&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-27T23:10:03Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "Hover",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7923223,
+        "title": "Staff Software Engineer",
+        "companyName": "Hover",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/003/578/original/logo?1745198156",
+        "publicUrl": "https://hover.to/job-posts/7923223/?gh_jid=7923223&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-27T23:10:03Z",
+        "locations": [
+          "New York, NY",
+          "San Francisco, CA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7002,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.001009,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.128060+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7961618",
+      "source": "mygreenhouse",
+      "company_slug": "",
+      "title": "Staff Software Engineer",
+      "location": "Atlanta, GA",
+      "url": "https://www.fanduel.careers/open-positions?gh_jid=7961618&gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-27T20:41:49Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "FanDuel",
+      "work_type": "hybrid",
+      "raw": {
+        "id": 7961618,
+        "title": "Staff Software Engineer",
+        "companyName": "FanDuel",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/003/213/original/logo?1745198122",
+        "publicUrl": "https://www.fanduel.careers/open-positions?gh_jid=7961618&gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-27T20:41:49Z",
+        "locations": [
+          "Atlanta, GA"
+        ],
+        "workType": "hybrid",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7002,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.00094,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.128342+00:00"
+  },
+  {
+    "job": {
+      "id": "mygreenhouse_7960884",
+      "source": "mygreenhouse",
+      "company_slug": "securityscorecard",
+      "title": "Senior Software Engineer",
+      "location": "Salt Lake City, UT",
+      "url": "https://job-boards.greenhouse.io/securityscorecard/jobs/7960884?gh_src=my.greenhouse.search",
+      "posted_at": "2026-05-27T16:40:08Z",
+      "description": null,
+      "salary_min": null,
+      "salary_max": null,
+      "company_name": "SecurityScorecard",
+      "work_type": "remote",
+      "raw": {
+        "id": 7960884,
+        "title": "Senior Software Engineer",
+        "companyName": "SecurityScorecard",
+        "logoUrl": "https://recruiting.cdn.greenhouse.io/job_board_renderer/job_board_configurations/small_logos/000/000/733/original/logo?1745197934",
+        "publicUrl": "https://job-boards.greenhouse.io/securityscorecard/jobs/7960884?gh_src=my.greenhouse.search",
+        "viewJobPath": null,
+        "firstPublished": "2026-05-27T16:40:08Z",
+        "locations": [
+          "Salt Lake City, UT"
+        ],
+        "workType": "remote",
+        "payRanges": null,
+        "viewed": false
+      }
+    },
+    "score": 0.7002,
+    "title_score": 1.0,
+    "seniority_score": 1.0,
+    "freshness_score": 0.000837,
+    "company_score": 1.0,
+    "location_score": 1.0,
+    "description_score": 0.5,
+    "scored_at": "2026-06-06 22:01:19.128388+00:00"
+  }
+]

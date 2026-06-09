@@ -1,0 +1,45 @@
+{
+  "saved_at": "2026-06-06T00:55:39.969869+00:00",
+  "cookies": [
+    {
+      "name": "ph_phc_btU4wnBf0FVn1TU4nluRAvua3dx4FSFuxV6QddNUYle_posthog",
+      "value": "%7B%22%24device_id%22%3A%22019e9a6d-42a7-718b-8a0f-a5cf0a348981%22%2C%22distinct_id%22%3A%22019e9a6d-42a7-718b-8a0f-a5cf0a348981%22%2C%22%24user_state%22%3A%22anonymous%22%7D",
+      "domain": ".greenhouse.io",
+      "path": "/",
+      "expires": 1812243312,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_dd_s",
+      "value": "aid=bfaad828-adba-481b-b5d2-26c02988e06d&rum=0&expire=1780708238911",
+      "domain": "my.greenhouse.io",
+      "path": "/",
+      "expires": 1812243338,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_session_id",
+      "value": "bd3fb57e061dd1e506d7f584bde89830",
+      "domain": "my.greenhouse.io",
+      "path": "/",
+      "expires": 1781916939.586279,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MYGREENHOUSE-XSRF-TOKEN",
+      "value": "WIJfhy9H_mx5-IYGRHKfJLTat_kKKklsHGih-nJEv1vp8BGmCyS8g-slGFxk_NtdBKQ_3f92-gHK-0XF2cb26g",
+      "domain": "my.greenhouse.io",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ]
+}

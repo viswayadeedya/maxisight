@@ -1,0 +1,13 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# storage/ intentionally committed — syncing between laptops during dev
+# remove this comment and add storage/ back before going public
